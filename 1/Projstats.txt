@@ -1,0 +1,52 @@
+
+Total lines in project: c:\codes\sa\ 				: 3500
+Total classes in project: c:\codes\sa\ 				: 23
+Структурный анализ данных, целый год реализовывал авторский алгоритм комбинированного факторного и класстерного анализа
+
+Total lines in project: c:\codes\mdl\ 				: 769
+Total classes in project: c:\codes\mdl\ 			: 5
+api для работы с бинарным файлом .mdl 
+
+Total lines in project: c:\codes\forecast\ 			: 2651
+Total classes in project: c:\codes\forecast\ 			: 27
+Семейство голотипных алгоритмов
+
+Total lines in project: c:\codes\igk_file_combine\ 		: 4625
+Total classes in project: c:\codes\igk_file_combine\ 		: 29
+Объединение и конвертация shp и dbf файлов
+
+Total lines in project: c:\codes\igk_pca_filter\ 		: 836
+Total classes in project: c:\codes\igk_pca_filter\ 		: 3
+Фильтрация методом главных компонент (eigen lib)
+
+Total lines in project: c:\codes\igk_pj4_to_prj\ 		: 115
+Total classes in project: c:\codes\igk_pj4_to_prj\ 		: 3
+Утилитка изменения формата проеции
+
+Total lines in project: c:\codes\igk_etalon_dispose\ 		: 5413
+Total classes in project: c:\codes\igk_etalon_dispose\		: 18
+Определение взаиморасположения эталонных объектов в признаковом пространстве
+
+Total lines in project: c:\codes\igk_shp_combine\ 		: 3206
+Total classes in project: c:\codes\igk_shp_combine\		: 14
+Объединение и конвертация shp файлов(под билдером)
+
+Total lines in project: c:\codes\igk_std_frame\ 		: 507
+Total classes in project: c:\codes\igk_std_frame\ 		: 3
+Создание основ карт стандартных наменклатурных листов 1
+
+Total lines in project: c:\codes\zip\ 				: 1280
+Total classes in project: c:\codes\zip\ 			: 17
+Утилита для архивации геоданных (zlib)
+
+Total lines in project: c:\codes\scn2d_gotoxy\ 			: 391
+Total classes in project: c:\codes\scn2d_gotoxy\		: 6
+Инструмент для перехода в заданную точку сцены
+
+Total lines in project: c:\codes\stdlist\ 			: 762
+Total classes in project: c:\codes\stdlist\ 			: 5
+Создание основ карт стандартных наменклатурных листов 1
+
+Total lines in project: c:\codes\igk_prognose_main.cpp\ 	: 5131
+Total classes in project: c:\codes\igk_prognose_main.cpp\	: 197
+Блок прогнозных задач (какя-то часть моя, большая часть нет)
