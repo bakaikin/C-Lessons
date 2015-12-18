@@ -2,7 +2,7 @@ Task 1:+ count not empty lines in every project
 
 Task 2:+ class String {int size; char* buf}; copy constructor; operator= ; destructor;  Run: String a = "123"; String b = a;
 
-Task 3:- Print out top frequently used words in Alice.txt (Limit: 100 lines )
+Task 3:+ Print out top frequently used words in Alice.txt (Limit: 100 lines )
 
 Task 4:- Draw table for std containers. Speed of search,push,pop operations.
 
@@ -10,4 +10,4 @@ Task 5:+- map vs hash map. Why does map still exist and hash map is not enough.
 
 Task 6:- Search for 7-10 desired job offers which I fancy because of salary, learning, responsibilities.
 
-Task 7:+ i++ vs ++i(создается временный объект)
+Task 7:+ i++ vs ++i(Г±Г®Г§Г¤Г ГҐГІГ±Гї ГўГ°ГҐГ¬ГҐГ­Г­Г»Г© Г®ГЎГєГҐГЄГІ)
